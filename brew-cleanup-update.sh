@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 check_command() {
     if ! command -v "$1" &>/dev/null; then
