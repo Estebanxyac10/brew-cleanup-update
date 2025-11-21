@@ -23,7 +23,7 @@ A simple script to automate the essential Homebrew tasks on macOS. Keep your pac
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/Estebanxyac10/brew-cleanup-update.git](https://github.com/Estebanxyac10/brew-cleanup-update.git)
+   git clone https://github.com/Estebanxyac10/brew-cleanup-update.git
    ```
 
 2. **Navigate to the directory:**
