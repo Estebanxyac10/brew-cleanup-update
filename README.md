@@ -60,19 +60,6 @@ The script will perform the following actions automatically:
 > arch -arm64 zsh ./brew-cleanup-update.sh
 > ```
 
-## Example Output
-
-```text
-Updating Homebrew...
-Upgrading installed packages...
-Cleaning up outdated versions...
-Summary: 5 packages upgraded, 20MB freed
-```
-
-## Contributing
-
-Contributions are welcome\! Feel free to open issues or submit pull requests to improve the script.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/license/mit) file for details.
